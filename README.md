@@ -1,3 +1,12 @@
+How to run:
+php artisan serve          # http://127.0.0.1:8000 (or use your own)
+
+This is a cafe dashboard management cafe using blade. This project is for the web programming midterm.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/293633ba-e49e-423b-8d2c-d509df57e0b1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08af20d9-8089-4e09-b680-bc0d51b1d9b6" />
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
