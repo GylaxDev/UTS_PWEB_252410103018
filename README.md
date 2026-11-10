@@ -1,7 +1,7 @@
 How to run:
 php artisan serve          # http://127.0.0.1:8000 (or use your own)
 
-This is a cafe dashboard management cafe using blade. This project is for the web programming midterm.
+This is a cafe web dashboard management cafe using blade with responsive design. This project is for the web programming midterm.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/293633ba-e49e-423b-8d2c-d509df57e0b1" />
 
